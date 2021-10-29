@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Um livro 1",
+      "cover": "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/book.png",
+      "author": 1
+    }, 
+    {
+      "id": 2,
+      "name": "Um livro 2",
+      "cover": "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/book.png",
+      "author": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "Name": "Author 1"
+    }
+  ]
+}
